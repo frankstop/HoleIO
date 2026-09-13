@@ -4,7 +4,7 @@
 
 ### Start small. Swallow the city. Become unstoppable.
 
-[![Play now](https://img.shields.io/badge/PLAY_NOW-2DE7F0?style=for-the-badge&logoColor=071520)](https://frankstop.github.io/HoleIO/)
+[![Play now](https://img.shields.io/badge/PLAY_NOW-2DE7F0?style=for-the-badge&logoColor=071520)](https://frankiejvaldez.com/HoleIO/)
 [![Deploy to GitHub Pages](https://github.com/frankstop/HoleIO/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/frankstop/HoleIO/actions/workflows/deploy-pages.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=flat-square&logo=threedotjs)](https://threejs.org/)
@@ -12,7 +12,7 @@
 
 A polished browser arcade game inspired by the scale rush of city-eating classics. Pilot a mobile gravitational void through a colorful miniature metropolis, consume anything that fits, outgrow seven hungry rivals, and reach skyscraper scale before time expires.
 
-[Play the live game](https://frankstop.github.io/HoleIO/) · [Report a bug](https://github.com/frankstop/HoleIO/issues/new)
+[Play the live game](https://frankiejvaldez.com/HoleIO/) · [Report a bug](https://github.com/frankstop/HoleIO/issues/new)
 
 ![Project Singularity title screen](docs/assets/title-screen.png)
 
@@ -120,4 +120,3 @@ npm test
 ## License
 
 Released under the [MIT License](LICENSE).
-
